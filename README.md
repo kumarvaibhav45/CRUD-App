@@ -1,5 +1,6 @@
 # Crud-App
-It is a to do app using mongodb, express js, react js and node js
+It is a to do app using mongodb, express js, react js and node js.
+It lets you create, edit, view and delete tasks.
 
 
 --frontend:
