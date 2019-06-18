@@ -1,0 +1,15 @@
+{
+  "name": "ToDo-App",
+  "version": "1.0.0",
+  "description": "A todo app to maintain your task routine(using MERN--MongoDB, Express Js, React Js, Node Js.)",
+  "main": "index.js",
+  "scripts": {
+    "start": "concurrently \"cd backend && npm start\" \"cd frontend && serve -s build\""
+  },
+  "keywords": [],
+  "author": "Kumar Vaibhav",
+  "license": "ISC",
+  "dependencies": {
+    "concurrently": "^4.1.0"
+  }
+}
