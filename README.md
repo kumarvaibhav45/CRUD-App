@@ -3,9 +3,15 @@
 ### (create, edit, view and delete tasks)
 
 ## Frontend:
-    >> developed using react js.
-    >> Axios and React router dom modules have been used to talk to server and routing purposes respectively.
+
+> Using react js.
+
+> React router dom (routing)
+
+> Axios (data fetching)
     
 ## Backend:
-    >> Server part is developed using express js.
-    >> Database connections are provided by mongodb database
+
+> Node Js/Express js (server)
+
+> Mongodb (database)
